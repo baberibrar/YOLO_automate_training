@@ -1,2 +1,1 @@
-# yoloautomatetraining
-images annotation to yolo training pipline
+# images annotation to yolo training pipline
